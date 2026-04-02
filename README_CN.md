@@ -62,12 +62,13 @@
 为了演示高保真转换的效果，我们提供了4个场景下的“原始静态格式”与“可编辑重构结果”的 1:1 对比。所有元素都可以独立拖拽、设置样式和修改。
 
 #### 场景 1：图片转 DrawIO
+
 | 🔒 原始静态图（输入 · 不可编辑） | 🔓 DrawIO 重建结果（输出 · 完全可编辑） |
 |:---:|:---:|
-| <br><b>示例 1：基础流程图</b><br><br><img src="/static/demo/original_1.jpg" width="100%" alt="原始图 1" style="border: 1px solid #eee; border-radius: 8px;"/> | <br><b>✨ 可编辑流程图</b><br><br><img src="/static/demo/recon_1.png" width="100%" alt="重建结果 1" style="border: 1px solid #eee; border-radius: 8px;"/> |
-| <br><b>示例 2：多层级架构图</b><br><br><img src="/static/demo/original_2.png" width="100%" alt="原始图 2" style="border: 1px solid #eee; border-radius: 8px;"/> | <br><b>✨ 可编辑架构图</b><br><br><img src="/static/demo/recon_2.png" width="100%" alt="重建结果 2" style="border: 1px solid #eee; border-radius: 8px;"/> |
-| <br><b>示例 3：技术原理图</b><br><br><img src="/static/demo/original_3.jpg" width="100%" alt="原始图 3" style="border: 1px solid #eee; border-radius: 8px;"/> | <br><b>✨ 可编辑原理图</b><br><br><img src="/static/demo/recon_3.png" width="100%" alt="重建结果 3" style="border: 1px solid #eee; border-radius: 8px;"/> |
-| <br><b>示例 4：科学公式</b><br><br><img src="/static/demo/original_4.jpg" width="100%" alt="原始图 4" style="border: 1px solid #eee; border-radius: 8px;"/> | <br><b>✨ 可编辑公式</b><br><br><img src="/static/demo/recon_4.png" width="100%" alt="重建结果 4" style="border: 1px solid #eee; border-radius: 8px;"/> |
+| <br><b>示例 1：基础流程图</b><br><br><img src="/static/demo/original_1.jpg" width="450" alt="原始图 1" style="border: 1px solid #eee; border-radius: 8px;"/> | <br><b>✨ 可编辑流程图</b><br><br><img src="/static/demo/recon_1.png" width="450" alt="重建结果 1" style="border: 1px solid #eee; border-radius: 8px;"/> |
+| <br><b>示例 2：多层级架构图</b><br><br><img src="/static/demo/original_2.png" width="450" alt="原始图 2" style="border: 1px solid #eee; border-radius: 8px;"/> | <br><b>✨ 可编辑架构图</b><br><br><img src="/static/demo/recon_2.png" width="450" alt="重建结果 2" style="border: 1px solid #eee; border-radius: 8px;"/> |
+| <br><b>示例 3：技术原理图</b><br><br><img src="/static/demo/original_3.jpg" width="450" alt="原始图 3" style="border: 1px solid #eee; border-radius: 8px;"/> | <br><b>✨ 可编辑原理图</b><br><br><img src="/static/demo/recon_3.png" width="450" alt="重建结果 3" style="border: 1px solid #eee; border-radius: 8px;"/> |
+| <br><b>示例 4：科学公式</b><br><br><img src="/static/demo/original_4.jpg" width="450" alt="原始图 4" style="border: 1px solid #eee; border-radius: 8px;"/> | <br><b>✨ 可编辑公式</b><br><br><img src="/static/demo/recon_4.png" width="450" alt="重建结果 4" style="border: 1px solid #eee; border-radius: 8px;"/> |
 
 #### 场景 2：交互式修改
 
