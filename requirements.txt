@@ -7,6 +7,9 @@ scikit-image
 requests
 fastapi
 uvicorn[standard]
+python-multipart
+modelscope
+einops
 
 # Text OCR (local, default)
 pytesseract
