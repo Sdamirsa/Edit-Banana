@@ -11,6 +11,10 @@ python-multipart
 modelscope
 einops
 
+# Stage 8: Vector export (SVG -> PDF)
+svglib
+reportlab
+
 # Text OCR (local, default)
 pytesseract
 
